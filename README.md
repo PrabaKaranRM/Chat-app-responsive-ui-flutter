@@ -1,6 +1,6 @@
 # od
 
-Frontend: https://chatapp-responsive-ui-flutter.netlify.app/
+Frontend Demo: https://chatapp-responsive-ui-flutter.netlify.app/
 
 A new Flutter project.
 
